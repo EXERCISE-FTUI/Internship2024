@@ -1,0 +1,79 @@
+body {
+    background: rgb(240, 240, 240);
+  }
+  
+  .form-title {
+    font-size: 2rem;
+    color: rgb(24, 24, 24);
+    margin-top: 4rem;
+    text-align: center;
+  }
+  
+  .contact-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1.8rem;
+  }
+  
+  .form-group {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .contact-label {
+    width: fit-content;
+    margin-bottom: 0.5rem;
+    padding: 0 0.5rem 2px;
+    background: rgb(24, 24, 24);
+    color: rgb(240, 240, 240);
+    font-size: 1.5rem;
+    text-align: left;
+  }
+  
+  #subject {
+    outline: none;
+    border: none;
+    border-bottom: solid rgb(24, 24, 24) 2px;
+    background: rgb(240, 240, 240);
+    width: 32rem;
+    height: 2rem;
+    padding: 0 1rem;
+  
+    font-family: "Times New Roman", Times, serif;
+    font-size: 1.3rem;
+  }
+  
+  #body {
+    outline: none;
+    border: none;
+    border-bottom: solid rgb(24, 24, 24) 2px;
+    background: rgb(240, 240, 240);
+    width: 32rem;
+    height: 16rem;
+    padding: 0 1rem;
+  
+    font-family: "Times New Roman", Times, serif;
+    font-size: 1.3rem;
+    resize: none;
+  }
+  
+  .btn-send {
+    outline: none;
+    border: none;
+    margin-bottom: 0.5rem;
+    padding: 0.5rem;
+    background: rgb(24, 24, 24);
+    color: rgb(240, 240, 240);
+    font-size: 1.2rem;
+    letter-spacing: 2px;
+  
+    cursor: pointer;
+    transition: all 200ms ease-in-out;
+  }
+  
+  .btn-send:hover {
+    transform: scale(0.9);
+  }
+  
