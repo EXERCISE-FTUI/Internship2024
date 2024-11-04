@@ -7,13 +7,14 @@ Bikin contact me
 ## Week 2
 
 Bikin portfolio, dalem nya ada project dari week 1
+- Link crash course : https://www.youtube.com/watch?v=2kg0z1qNrkw&t=1606s&ab_channel=CodeCommerce
 
 ## Week 3
 
 Ngelanjutin yang week 2 dengan tambahan berikut
 
 - Implementasi useState boleh misal buat state navbar burger pas mobile hidden atau shown
-- Implementasi useEffect boleh buat nge get user profile github pake https://api.github.com/users/{username}
+- Implementasi useEffect boleh buat nge get reqeust profile github pake https://api.github.com/users/{username}
 
 Wajib ada request
 
@@ -27,7 +28,8 @@ Bikin to do list di contoh nya ada yg node enviorement sama browser karena ngein
 
 ## Week 2
 
-Bikin library management nya pake request sama ada fitur login juga jadi bisa multiple users
+Bikin backend buat social media (boleh buat chatting, nge post kaya twittter, dll), tema nya boleh yg lain selain social media tapi wajib ada sistem login dan register buat minggu 3.
+- Link crash course : https://www.youtube.com/watch?v=_7UQPve99r4&t=4766s&ab_channel=freeCodeCamp.org (note : yg ini bukan pake vite, selain itu udh bagus tutorial nya)
 
 ## Week 3
 
