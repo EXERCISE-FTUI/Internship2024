@@ -8,6 +8,10 @@ exports.getMyChats = async (req, res) => {
     const chats = await Chat.find({ sender: req.query.id });
     chats.push(...await Chat.find({ receiver: req.query.id }));
     chats.sort((a, b) => a.writtenAt - b.writtenAt);
+    for (const chat of chats) {
+      chat.receiver = (await Chat.findById(chat.receiver)).username;
+      chat.sender = (await Chat.findById(chat.sender)).username;
+    }
     res.status(200).json({ success: true, message: "Chats retrieved successfully", data: chats });
   } catch (error) {
     res.status(500).json({ message: error.message });
