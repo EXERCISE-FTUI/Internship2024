@@ -13,6 +13,7 @@ Bikin contact me
 ## Week 2
 
 Bikin portfolio, dalem nya ada project dari week 1
+
 Link crash course : https://www.youtube.com/watch?v=2kg0z1qNrkw&t=1606s&ab_channel=CodeCommerce (note : yg ini bukan pake vite, selain itu udh bagus tutorial nya)
 
 **_Target capaian_** :
@@ -50,6 +51,7 @@ Bikin to do list di console, atau html.
 ## Week 2
 
 Bikin backend buat social media (boleh buat chatting, nge post kaya twittter, dll), tema nya boleh yg lain selain social media tapi wajib ada sistem login dan register buat minggu 3.
+
 Link crash course : https://www.youtube.com/watch?v=_7UQPve99r4&t=4766s&ab_channel=freeCodeCamp.org
 
 **_Target capaian_** :
