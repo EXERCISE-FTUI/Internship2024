@@ -3,6 +3,7 @@
 ## Week 1
 
 Bikin contact me
+
 **_Target capaian_** :
 
 - Memahami cara menggunakan CSS
@@ -39,6 +40,7 @@ Ngelanjutin yang week 2 dengan tambahan berikut
 ## Week 1
 
 Bikin to do list di console, atau html.
+
 **_Target capaian_** :
 
 - Memahami basic javascript
@@ -49,6 +51,7 @@ Bikin to do list di console, atau html.
 
 Bikin backend buat social media (boleh buat chatting, nge post kaya twittter, dll), tema nya boleh yg lain selain social media tapi wajib ada sistem login dan register buat minggu 3.
 Link crash course : https://www.youtube.com/watch?v=_7UQPve99r4&t=4766s&ab_channel=freeCodeCamp.org
+
 **_Target capaian_** :
 
 - Memahami cara membuat models
@@ -58,6 +61,7 @@ Link crash course : https://www.youtube.com/watch?v=_7UQPve99r4&t=4766s&ab_chann
 ## Week 3
 
 Bikin yang week 2 lebih secure, dan tambah profile picture di user
+
 **_Target capaian_** :
 
 - Memahami cara menggunakan middleware
